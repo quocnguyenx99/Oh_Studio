@@ -25,9 +25,9 @@ This page is clone to practice HTML, CSS, JAVASCRIPT and Responsive skills.
 
 
 ## Features
-- Home page for all projects
-- Profile 
-- Contact
+- Home page
+- Profile page
+- Contact page
 
 
 ## Screenshots
@@ -36,11 +36,11 @@ This page is clone to practice HTML, CSS, JAVASCRIPT and Responsive skills.
 
 
 ## Setup
-Clone this project and run index.html file on IDE likes : VScode, Sublime ,....etc.
+Clone this project and run index.html file on IDE such as VSCode, Sublime,...etc.
 
 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by OH.STUDIO webpage is created by Oli
-- This project was based on [this tutorial](https://oh.studio/).
+- This project was based on [this webpage](https://oh.studio/).
 - Many thanks to Oli
